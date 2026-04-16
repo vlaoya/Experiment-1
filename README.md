@@ -9,5 +9,6 @@ I also use AI for problem inducation.He plays role, as a painmaker or punishing 
  # Solucion 
  They can be equal by angels and modulus but not by directions. 
  *Stats* I send +-150 minuts for solving this problem. 
- # Insights "I have to get more attentive, becouse I work with very small amount of pre-traning information and I have to use all potencial of it".
+ # Insights 
+ "I have to get more attentive, becouse I work with very small amount of pre-traning information and I have to use all potencial of it".
  
